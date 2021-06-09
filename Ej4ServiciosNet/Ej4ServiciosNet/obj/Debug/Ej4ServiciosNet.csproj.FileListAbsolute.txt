@@ -1,0 +1,7 @@
+C:\Users\rober\source\repos\Ej4ServiciosNet\Ej4ServiciosNet\bin\Debug\Ej4ServiciosNet.exe.config
+C:\Users\rober\source\repos\Ej4ServiciosNet\Ej4ServiciosNet\bin\Debug\Ej4ServiciosNet.exe
+C:\Users\rober\source\repos\Ej4ServiciosNet\Ej4ServiciosNet\bin\Debug\Ej4ServiciosNet.pdb
+C:\Users\rober\source\repos\Ej4ServiciosNet\Ej4ServiciosNet\obj\Debug\Ej4ServiciosNet.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\Ej4ServiciosNet\Ej4ServiciosNet\obj\Debug\Ej4ServiciosNet.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Ej4ServiciosNet\Ej4ServiciosNet\obj\Debug\Ej4ServiciosNet.exe
+C:\Users\rober\source\repos\Ej4ServiciosNet\Ej4ServiciosNet\obj\Debug\Ej4ServiciosNet.pdb
