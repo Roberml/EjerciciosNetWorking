@@ -1,7 +1,0 @@
-C:\Users\rober\source\repos\Ej3ServiciosNet\Ej3ServiciosNet\bin\Debug\Ej3ServiciosNet.exe.config
-C:\Users\rober\source\repos\Ej3ServiciosNet\Ej3ServiciosNet\bin\Debug\Ej3ServiciosNet.exe
-C:\Users\rober\source\repos\Ej3ServiciosNet\Ej3ServiciosNet\bin\Debug\Ej3ServiciosNet.pdb
-C:\Users\rober\source\repos\Ej3ServiciosNet\Ej3ServiciosNet\obj\Debug\Ej3ServiciosNet.csprojAssemblyReference.cache
-C:\Users\rober\source\repos\Ej3ServiciosNet\Ej3ServiciosNet\obj\Debug\Ej3ServiciosNet.csproj.CoreCompileInputs.cache
-C:\Users\rober\source\repos\Ej3ServiciosNet\Ej3ServiciosNet\obj\Debug\Ej3ServiciosNet.exe
-C:\Users\rober\source\repos\Ej3ServiciosNet\Ej3ServiciosNet\obj\Debug\Ej3ServiciosNet.pdb
