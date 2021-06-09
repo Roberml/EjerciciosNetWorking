@@ -1,0 +1,7 @@
+C:\Users\rober\source\repos\Ej1ServiciosNet\Ej1ServiciosNet\bin\Debug\Ej1ServiciosNet.exe.config
+C:\Users\rober\source\repos\Ej1ServiciosNet\Ej1ServiciosNet\bin\Debug\Ej1ServiciosNet.exe
+C:\Users\rober\source\repos\Ej1ServiciosNet\Ej1ServiciosNet\bin\Debug\Ej1ServiciosNet.pdb
+C:\Users\rober\source\repos\Ej1ServiciosNet\Ej1ServiciosNet\obj\Debug\Servicio.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\Ej1ServiciosNet\Ej1ServiciosNet\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Ej1ServiciosNet\Ej1ServiciosNet\obj\Debug\Ej1ServiciosNet.exe
+C:\Users\rober\source\repos\Ej1ServiciosNet\Ej1ServiciosNet\obj\Debug\Ej1ServiciosNet.pdb

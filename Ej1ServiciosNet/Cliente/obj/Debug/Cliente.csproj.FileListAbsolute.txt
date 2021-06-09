@@ -1,0 +1,11 @@
+C:\Users\rober\source\repos\Ej1ServiciosNet\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\rober\source\repos\Ej1ServiciosNet\Cliente\bin\Debug\Cliente.exe
+C:\Users\rober\source\repos\Ej1ServiciosNet\Cliente\bin\Debug\Cliente.pdb
+C:\Users\rober\source\repos\Ej1ServiciosNet\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\Ej1ServiciosNet\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\rober\source\repos\Ej1ServiciosNet\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\rober\source\repos\Ej1ServiciosNet\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\rober\source\repos\Ej1ServiciosNet\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Ej1ServiciosNet\Cliente\obj\Debug\Cliente.exe
+C:\Users\rober\source\repos\Ej1ServiciosNet\Cliente\obj\Debug\Cliente.pdb
+C:\Users\rober\source\repos\Ej1ServiciosNet\Cliente\obj\Debug\Cliente.Form2.resources
